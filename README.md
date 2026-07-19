@@ -8,9 +8,7 @@
 
 <br/>
 
-![CGPA](https://img.shields.io/badge/CGPA-9.08-6D28D9?style=for-the-badge)
-![Batch](https://img.shields.io/badge/Batch-2023--2027-8B5CF6?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Mangalore%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
+🎓 CGPA: 9.08&nbsp;&nbsp;|&nbsp;&nbsp;📚 Batch: 2023–2027&nbsp;&nbsp;|&nbsp;&nbsp;📍 Mangalore, Karnataka, India
 
 <br/>
 
