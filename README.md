@@ -235,7 +235,7 @@ Designed the interface for artisans to upload products, built a customer-facing 
 ### 💻 Coding Profile
 
 <div align="center">
-[<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32"/>](https://leetcode.com/u/Azmiya/)&nbsp; [**LeetCode**](https://leetcode.com/u/Azmiya/)
+[<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32"/>](https://leetcode.com/u/Azmiya/)&nbsp;
 
 *Actively solving — problem count growing weekly.*
 
@@ -251,16 +251,6 @@ Designed the interface for artisans to upload products, built a customer-facing 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmiyaazmii25&theme=dark&hide_border=true&background=0f0524&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiyaazmii25&layout=compact&theme=dark&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=c9c9e0" width="48%" />
-
-</div>
-
----
-
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=azmiyaazmii25&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
