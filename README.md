@@ -314,7 +314,7 @@ Open To:
 
 <div align="center">
 
-[![azmiyaazmii25@gmail.com](https://img.shields.io/badge/azmiyaazmii25%40gmail.com-0f0524?style=flat-square&logoColor=white)](mailto:azmiyaazmii25@gmail.com)
+[azmiyaazmii25@gmail.com](mailto:azmiyaazmii25@gmail.com)
 [<img src="https://static.vecteezy.com/system/resources/previews/012/660/862/original/linkedin-logo-on-transparent-isolated-background-free-vector.jpg" height="28"/>](https://www.linkedin.com/in/azmiya-59a266373)&nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azmiyaazmii25)
 
