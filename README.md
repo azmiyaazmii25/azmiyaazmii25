@@ -20,8 +20,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=azmiyaazmii25&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/azmiyaazmii25?style=for-the-badge&color=7C3AED&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/azmiyaazmii25?style=for-the-badge&color=8B5CF6&label=STARS)
 
 </div>
 
