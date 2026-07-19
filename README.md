@@ -314,7 +314,7 @@ Open To:
 
 <div align="center">
 
-[![Gmail](azmiyaazmii25@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-azmiyaazmii25%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azmiyaazmii25@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Azmiya-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmiya-59a266373)
 [![GitHub](https://img.shields.io/badge/GitHub-azmiyaazmii25-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azmiyaazmii25)
 
