@@ -235,8 +235,7 @@ Designed the interface for artisans to upload products, built a customer-facing 
 ### 💻 Coding Profile
 
 <div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Azmiya-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Azmiya/)
+[<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32"/>](https://leetcode.com/u/Azmiya/)&nbsp; [**LeetCode**](https://leetcode.com/u/Azmiya/)
 
 *Actively solving — problem count growing weekly.*
 
