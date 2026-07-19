@@ -215,13 +215,14 @@ Designed the interface for artisans to upload products, built a customer-facing 
 ### 📜 Certifications & Courses
 
 **NPTEL**
-![NPTEL](https://img.shields.io/badge/NPTEL-Intro%20to%20Soft%20Computing%20(Elite%2C%2072%25)-6D28D9?style=flat-square)
+[![NPTEL](https://img.shields.io/badge/NPTEL-Intro%20to%20Soft%20Computing%20(Elite%2C%2072%25)-6D28D9?style=flat-square)](https://storage.googleapis.com/swayam-node1-production_certificates/NOC26/SEM1/Ecertificates/106/noc26-cs44/Course/NPTEL26CS44S56210031903160073.pdf)
 
 **Coursera**
-![Coursera](https://img.shields.io/badge/Coursera-Flutter%20%26%20Dart-7C3AED?style=flat-square&logo=coursera&logoColor=white)
+[![Coursera](https://img.shields.io/badge/Coursera-Flutter%20%26%20Dart-7C3AED?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/share/e74a26d11d4359c0258dc38ae6f88969)
+[![Coursera](https://img.shields.io/badge/Coursera-Python%20Crash%20Course-7C3AED?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/share/948bb110bd788e6a559570f8d01e6a29)
 
 **Deloitte**
-![Deloitte](https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-8B5CF6?style=flat-square)
+[![Deloitte](https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-8B5CF6?style=flat-square)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_7ZRnGfnPxFT4YCrbG_1771739307586_completion_certificate.pdf)
 
 **IUCEE**
 ![IUCEE](https://img.shields.io/badge/IUCEE-Design%20Thinking%20%26%20Community%20Design-4C1D95?style=flat-square)
