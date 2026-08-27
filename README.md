@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2D1B4E&height=180&section=header&text=AZMIYA&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20%7C%20AI%20%7C%20GenAI%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2D1B4E&height=180&section=header&text=AZMIYA&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data Analytics%20%7C%20AI%20%7C%20GenAI%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
-
 <a href="https://github.com/azmiyaazmii25">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -13,7 +12,6 @@
 <a href="mailto:azmiyaazmii25@gmail.com">
 <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+with+AI+%26+GenAI+%F0%9F%A4%96;Creating+Practical+Full-Stack+Solutions+%F0%9F%92%BB;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
@@ -47,7 +45,7 @@ My interests span **Data Analytics, Artificial Intelligence, Generative AI, and 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-### 🤖 AI & GenAI
+### 🤖 AI 
 
 <img src="https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge"/>
@@ -116,6 +114,7 @@ My interests span **Data Analytics, Artificial Intelligence, Generative AI, and 
 <a href="https://github.com/azmiyaazmii25/ruraltouch">
 <img src="https://img.shields.io/badge/📱%20Explore%20RuralTouch-6D28D9?style=for-the-badge"/>
 </a>
+
 ---
 
 ### 🔍 Data Detective — Business Mystery
@@ -129,6 +128,7 @@ My interests span **Data Analytics, Artificial Intelligence, Generative AI, and 
 <a href="https://github.com/azmiyaazmii25/data-detective-business-mystery">
 <img src="https://img.shields.io/badge/🕵️%20Solve%20the%20Case-6D28D9?style=for-the-badge"/>
 </a>
+
 ---
 
 # 💼 Experience
