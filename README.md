@@ -4,19 +4,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/azmiya-59a266373">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/azmiyaazmii25">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:azmiyaazmii25@gmail.com">
-<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=azmiyaazmii25&label=Profile%20Views&color=6d28d9&style=flat"/>
+<a href="https://www.linkedin.com/in/azmiya-59a266373"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/azmiyaazmii25"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:azmiyaazmii25@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -39,9 +27,7 @@ Currently open to **internship and full-time opportunities** in Data Analytics, 
 ### 📊 Data & Analytics
 
 <img src="https://skillicons.dev/icons?i=python,mysql,jupyter"/>
-
-<br><br>
-
+<br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
@@ -56,9 +42,7 @@ Currently open to **internship and full-time opportunities** in Data Analytics, 
 ### 💻 Development
 
 <img src="https://skillicons.dev/icons?i=java,c,flutter,firebase,git,github,vscode"/>
-
-<br><br>
-
+<br>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Full%20Stack-2D1B4E?style=for-the-badge"/>
@@ -72,7 +56,6 @@ Currently open to **internship and full-time opportunities** in Data Analytics, 
 <div align="center">
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -81,10 +64,7 @@ Currently open to **internship and full-time opportunities** in Data Analytics, 
 
 An AI-powered road safety system designed to detect approaching vehicles around blind curves and provide real-time warnings.
 
-<br>
-
-<b>Tech:</b><br>
-YOLO • Computer Vision • Sensor Fusion • Edge Computing • ESP32-CAM
+<b>Tech:</b> YOLO • Computer Vision • Sensor Fusion • Edge Computing • ESP32-CAM
 
 <br><br>
 
@@ -98,10 +78,7 @@ YOLO • Computer Vision • Sensor Fusion • Edge Computing • ESP32-CAM
 
 An intelligent recruitment analytics system that processes resumes, extracts relevant skills, categorizes candidates, and presents recruitment insights through dashboards.
 
-<br>
-
-<b>Tech:</b><br>
-Python • MySQL • Tableau • Data Analytics
+<b>Tech:</b> Python • MySQL • Tableau • Data Analytics
 
 <br><br>
 
@@ -109,9 +86,7 @@ Python • MySQL • Tableau • Data Analytics
 
 <br><br>
 
-<a href="https://github.com/azmiyaazmii25/resume-intelligence-system">
-<img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/azmiyaazmii25/resume-intelligence-system"><img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
@@ -125,10 +100,7 @@ Python • MySQL • Tableau • Data Analytics
 
 An end-to-end analytics project exploring loan applications, credit risk, repayment behavior, and factors influencing loan defaults.
 
-<br>
-
-<b>Tech:</b><br>
-Python • Pandas • Tableau • Data Visualization
+<b>Tech:</b> Python • Pandas • Tableau • Data Visualization
 
 <br><br>
 
@@ -136,9 +108,7 @@ Python • Pandas • Tableau • Data Visualization
 
 <br><br>
 
-<a href="https://github.com/azmiyaazmii25/bank-loan-analysis-credit-risk-dashboard">
-<img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/azmiyaazmii25/bank-loan-analysis-credit-risk-dashboard"><img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
@@ -148,10 +118,7 @@ Python • Pandas • Tableau • Data Visualization
 
 An interactive analytics application that transforms business problems into data-driven detective cases using KPIs, visualizations, and a scoring system.
 
-<br>
-
-<b>Tech:</b><br>
-Python • Streamlit • Plotly
+<b>Tech:</b> Python • Streamlit • Plotly
 
 <br><br>
 
@@ -159,9 +126,7 @@ Python • Streamlit • Plotly
 
 <br><br>
 
-<a href="https://github.com/azmiyaazmii25/data-detective-business-mystery">
-<img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/azmiyaazmii25/data-detective-business-mystery"><img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
@@ -175,10 +140,7 @@ Python • Streamlit • Plotly
 
 A cross-platform marketplace designed to help rural artisans showcase and sell their products online.
 
-<br>
-
-<b>Tech:</b><br>
-Flutter • Firebase • Mobile Application Development
+<b>Tech:</b> Flutter • Firebase • Mobile Application Development
 
 <br><br>
 
@@ -186,14 +148,11 @@ Flutter • Firebase • Mobile Application Development
 
 <br><br>
 
-<a href="https://github.com/azmiyaazmii25/ruraltouch">
-<img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/azmiyaazmii25/ruraltouch"><img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -205,8 +164,6 @@ Flutter • Firebase • Mobile Application Development
 ### 📊 Data Analytics Intern — CodeAlpha
 
 **4-Week Virtual Internship**
-
-Worked on practical data analytics tasks involving:
 
 * Data cleaning and preprocessing
 * Exploratory Data Analysis
@@ -232,10 +189,8 @@ Worked on practical data analytics tasks involving:
 
 ### Trailhead Ranger
 
-🏅 <b>100+ Badges</b>
-
-⭐ <b>65K+ Points</b>
-
+🏅 <b>100+ Badges</b><br>
+⭐ <b>65K+ Points</b><br>
 📚 Salesforce Trailhead
 
 </td>
@@ -246,10 +201,8 @@ Worked on practical data analytics tasks involving:
 
 ### Soft Computing
 
-🏆 <b>Elite Certification</b>
-
-📊 <b>72%</b>
-
+🏆 <b>Elite Certification</b><br>
+📊 <b>72%</b><br>
 🎓 NPTEL
 
 </td>
@@ -260,11 +213,9 @@ Worked on practical data analytics tasks involving:
 
 ### Data Analytics
 
-💼 <b>Job Simulation</b>
-
-🌐 Forage
-
-📊 Data Analytics Experience
+💼 <b>Job Simulation</b><br>
+🌐 Forage<br>
+📊 Data Analytics
 
 </td>
 
@@ -278,8 +229,7 @@ Worked on practical data analytics tasks involving:
 
 ### Python
 
-🐍 Crash Course on Python
-
+🐍 Crash Course on Python<br>
 📚 Professional Learning
 
 </td>
@@ -290,8 +240,7 @@ Worked on practical data analytics tasks involving:
 
 ### Flutter & Dart
 
-📱 Flutter & Dart
-
+📱 Flutter & Dart<br>
 💻 Mobile App Development
 
 </td>
@@ -302,8 +251,7 @@ Worked on practical data analytics tasks involving:
 
 ### SAP Hackfest 2025
 
-🏆 Hackathon Participant
-
+🏆 Hackathon Participant<br>
 🌐 National-Level Event
 
 </td>
@@ -328,8 +276,6 @@ Worked on practical data analytics tasks involving:
 
 </div>
 
-<br>
-
 I’m continuously expanding my skills by building projects, solving problems, and exploring how **AI and data can be integrated into real-world applications**.
 
 ---
@@ -350,13 +296,7 @@ I’m continuously expanding my skills by building projects, solving problems, a
 
 ### 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/azmiya-59a266373">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:azmiyaazmii25@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/azmiya-59a266373"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:azmiyaazmii25@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
 
