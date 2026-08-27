@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2D1B4E&height=180&section=header&text=AZMIYA&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data Analytics%20%7C%20AI%20%7C%20GenAI%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2D1B4E&height=180&section=header&text=AZMIYA&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20%7C%20AI%20%7C%20GenAI%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 <a href="https://github.com/azmiyaazmii25">
