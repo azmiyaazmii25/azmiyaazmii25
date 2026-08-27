@@ -192,23 +192,6 @@ Flutter • Firebase • Mobile Application Development
 
 </td>
 
-<td width="50%" valign="top">
-
-<h3>📱 MediSlot</h3>
-
-A mobile appointment application designed to simplify healthcare appointment scheduling and management.
-
-<br>
-
-<b>Tech:</b><br>
-Flutter • Firebase • Mobile Development
-
-<br><br>
-
-📱 <b>Healthcare Application</b>
-
-</td>
-
 </tr>
 
 </table>
@@ -361,19 +344,6 @@ I’m continuously expanding my skills by building projects, solving problems, a
 
 </div>
 
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azmiyaazmii25&theme=react-dark&hide_border=true&area=true" width="95%"/>
-
-</div>
 ---
 
 <div align="center">
