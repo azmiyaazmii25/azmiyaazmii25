@@ -130,8 +130,8 @@ Cleaned raw datasets, ran exploratory analysis, and built dashboards to present 
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=azmiyaazmii25&show_icons=true&theme=dark&hide_border=true&bg_color=0f0524&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9e0" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiyaazmii25&layout=compact&theme=dark&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=c9c9e0" width="41%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=azmiyaazmii25&show_icons=true&theme=dark&hide_border=true&bg_color=0f0524&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9e0" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azmiyaazmii25&layout=compact&theme=dark&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=c9c9e0" width="41%"/>
 </div>
 
 ---
