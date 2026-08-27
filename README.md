@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d28d9,100:2d1b4e&height=140&section=header&text=Azmiya&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Tableau&descAlignY=70&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d28d9,100:2d1b4e&height=140&section=header&text=Azmiya&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Data%20%7C%20AI%20%7C%20Full%20Stack&descAlignY=70&descAlign=50&descSize=18" width="100%"/>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=azmiyaazmii25&label=Profile%20Views&color=6d28d9&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=azmiyaazmii25&label=Profile%20Views&color=6d28d9&style=flat"/>
 
 </div>
 
@@ -24,11 +24,11 @@
 
 ## 👩‍💻 About Me
 
-I’m an **Information Science & Engineering student focused on Data Analytics**, with hands-on experience turning raw data into meaningful insights through **Python, SQL, Excel, and Tableau**.
+I’m an **Information Science & Engineering student passionate about Data, AI, and software development**. I enjoy turning data into insights, building intelligent solutions, and developing applications that solve practical problems.
 
-I enjoy working across the analytics workflow — from **data cleaning and exploratory analysis to visualization and business-focused insights**. I also build practical applications when a problem requires an interactive solution.
+My work spans **Python, SQL, Tableau, Full-Stack Development, Generative AI, and Machine Learning**, with a focus on learning by building real-world projects.
 
-Currently seeking **Data Analyst, Data Analytics, and entry-level opportunities** where I can apply my technical and analytical skills to real-world problems.
+Currently open to **internship and full-time opportunities** in Data Analytics, AI/ML, GenAI, and Software Development.
 
 ---
 
@@ -38,23 +38,30 @@ Currently seeking **Data Analyst, Data Analytics, and entry-level opportunities*
 
 ### 📊 Data & Analytics
 
-<img src="https://skillicons.dev/icons?i=python,mysql,jupyter" />
+<img src="https://skillicons.dev/icons?i=python,mysql,jupyter"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-### 💻 Development & Tools
+### 🤖 AI & GenAI
 
-<img src="https://skillicons.dev/icons?i=c,flutter,firebase,git,github,vscode" />
+<img src="https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge"/>
+
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=java,c,flutter,firebase,git,github,vscode"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-2D1B4E?style=for-the-badge"/>
 
 </div>
 
@@ -65,16 +72,19 @@ Currently seeking **Data Analyst, Data Analytics, and entry-level opportunities*
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🚦 Blind Curve Collision Prevention</h3>
+<h3>🚦 AI Blind Curve Collision Prevention</h3>
 
-AI-powered road safety system designed to detect approaching vehicles around blind curves and provide timely warnings.
+An AI-powered road safety system designed to detect approaching vehicles around blind curves and provide real-time warnings.
+
+<br>
 
 <b>Tech:</b><br>
-YOLO • Computer Vision • Sensor Fusion • Edge Computing
+YOLO • Computer Vision • Sensor Fusion • Edge Computing • ESP32-CAM
 
 <br><br>
 
@@ -86,10 +96,12 @@ YOLO • Computer Vision • Sensor Fusion • Edge Computing
 
 <h3>🧠 Resume Intelligence System</h3>
 
-An analytics system that processes resumes, identifies relevant skills, categorizes candidates, and presents recruitment insights through dashboards.
+An intelligent recruitment analytics system that processes resumes, extracts relevant skills, categorizes candidates, and presents recruitment insights through dashboards.
+
+<br>
 
 <b>Tech:</b><br>
-Python • MySQL • Tableau
+Python • MySQL • Tableau • Data Analytics
 
 <br><br>
 
@@ -111,7 +123,9 @@ Python • MySQL • Tableau
 
 <h3>🏦 Bank Loan & Credit Risk Dashboard</h3>
 
-End-to-end analysis of loan applications to identify patterns associated with loan approval, credit risk, and defaults.
+An end-to-end analytics project exploring loan applications, credit risk, repayment behavior, and factors influencing loan defaults.
+
+<br>
 
 <b>Tech:</b><br>
 Python • Pandas • Tableau • Data Visualization
@@ -130,16 +144,18 @@ Python • Pandas • Tableau • Data Visualization
 
 <td width="50%" valign="top">
 
-<h3>🔍 Data Detective</h3>
+<h3>🔍 Data Detective — Business Mystery</h3>
 
-An interactive analytics application that transforms business problems into data-driven detective cases with KPIs, visualizations, and a scoring system.
+An interactive analytics application that transforms business problems into data-driven detective cases using KPIs, visualizations, and a scoring system.
+
+<br>
 
 <b>Tech:</b><br>
 Python • Streamlit • Plotly
 
 <br><br>
 
-🎯 <b>Interactive Business Analytics</b>
+🎯 <b>Interactive Analytics Application</b>
 
 <br><br>
 
@@ -157,35 +173,44 @@ Python • Streamlit • Plotly
 
 <h3>🌾 RuralTouch</h3>
 
-A Flutter-based marketplace designed to help rural artisans showcase and sell their products online.
+A cross-platform marketplace designed to help rural artisans showcase and sell their products online.
+
+<br>
 
 <b>Tech:</b><br>
-Flutter • Firebase
+Flutter • Firebase • Mobile Application Development
 
 <br><br>
 
-📱 <b>Cross-Platform Application</b>
+📱 <b>Artisan Marketplace</b>
+
+<br><br>
+
+<a href="https://github.com/azmiyaazmii25/ruraltouch">
+<img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>📈 Sales Data Analysis</h3>
+<h3>📱 MediSlot</h3>
 
-Exploratory data analysis project focused on understanding sales patterns, regional performance, and business trends.
+A mobile appointment application designed to simplify healthcare appointment scheduling and management.
+
+<br>
 
 <b>Tech:</b><br>
-Python • Pandas • Excel • Data Visualization
+Flutter • Firebase • Mobile Development
 
 <br><br>
 
-<a href="https://github.com/azmiyaazmii25">
-<img src="https://img.shields.io/badge/More%20Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+📱 <b>Healthcare Application</b>
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -198,11 +223,11 @@ Python • Pandas • Excel • Data Visualization
 
 **4-Week Virtual Internship**
 
-Worked on data analytics tasks involving:
+Worked on practical data analytics tasks involving:
 
 * Data cleaning and preprocessing
 * Exploratory Data Analysis
-* Identifying trends and patterns
+* Identifying patterns and trends
 * Data visualization
 * Presenting insights in a business-oriented format
 
@@ -217,83 +242,86 @@ Worked on data analytics tasks involving:
 <table>
 
 <tr>
+
 <td align="center" width="33%">
 
-### ☁️ Salesforce
+<img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
-<b>Trailhead Ranger</b>
+### Trailhead Ranger
 
-<br><br>
+🏅 <b>100+ Badges</b>
 
-🏅 78+ Badges
-⭐ 44K+ Points
-📚 Administrator Trail
+⭐ <b>65K+ Points</b>
+
+📚 Salesforce Trailhead
 
 </td>
 
 <td align="center" width="33%">
 
-### 🎓 NPTEL
+<img src="https://img.shields.io/badge/NPTEL-1F4E79?style=for-the-badge"/>
 
-<b>Soft Computing</b>
+### Soft Computing
 
-<br><br>
+🏆 <b>Elite Certification</b>
 
-🏆 Elite Certification
-📊 72%
+📊 <b>72%</b>
+
+🎓 NPTEL
 
 </td>
 
 <td align="center" width="33%">
 
-### 💼 Deloitte
+<img src="https://img.shields.io/badge/DELOITTE-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/>
 
-<b>Data Analytics</b>
+### Data Analytics
 
-<br><br>
+💼 <b>Job Simulation</b>
 
-📊 Job Simulation
 🌐 Forage
 
+📊 Data Analytics Experience
+
 </td>
+
 </tr>
 
 <tr>
 
 <td align="center">
 
-### 🐍 Coursera
+<img src="https://img.shields.io/badge/COURSERA-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
 
-<b>Python</b>
+### Python
 
-<br><br>
+🐍 Crash Course on Python
 
-Crash Course on Python
-
-</td>
-
-<td align="center">
-
-### 📱 Coursera
-
-<b>Flutter & Dart</b>
-
-<br><br>
-
-Mobile App Development
+📚 Professional Learning
 
 </td>
 
 <td align="center">
 
-### 🏆 Hackfest
+<img src="https://img.shields.io/badge/COURSERA-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
 
-<b>SAP Hackfest 2025</b>
+### Flutter & Dart
 
-<br><br>
+📱 Flutter & Dart
 
-National-Level Hackathon
-MITE
+💻 Mobile App Development
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+
+### SAP Hackfest 2025
+
+🏆 Hackathon Participant
+
+🌐 National-Level Event
 
 </td>
 
@@ -305,20 +333,21 @@ MITE
 
 ---
 
-# 📚 Currently Learning
+# 📚 Currently Exploring
 
 <div align="center">
 
-`Data Structures & Algorithms`   `Java`   `Generative AI`   `Advanced SQL`
+🤖 **Generative AI**   •  
+🧠 **AI / Machine Learning**   •  
+📊 **Advanced Analytics**   •  
+💻 **Full-Stack Development**   •  
+☕ **Java & DSA**
 
 </div>
 
 <br>
 
-* 🔹 Strengthening problem-solving through **LeetCode**
-* 🔹 Improving **Java & DSA** fundamentals
-* 🔹 Exploring **Generative AI concepts**
-* 🔹 Building practical **data analytics projects**
+I’m continuously expanding my skills by building projects, solving problems, and exploring how **AI and data can be integrated into real-world applications**.
 
 ---
 
@@ -338,32 +367,13 @@ MITE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azmiyaazmii25&bg_color=0f0524&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🎯 Career Focus
+# 📈 Contribution Activity
 
 <div align="center">
 
-### Turning Data → Insights → Decisions
-
-<br>
-
-📊 Data Analytics   •  
-🐍 Python   •  
-🗄️ SQL   •  
-📈 Tableau   •  
-💡 Problem Solving
-
-<br><br>
-
-<b>Open to Data Analyst • Data Analytics • Entry-Level Opportunities</b>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azmiyaazmii25&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
 </div>
-
 ---
 
 <div align="center">
